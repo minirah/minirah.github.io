@@ -4,3 +4,6 @@
 [submodule "themes/paper"]
 	path = themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/nostyleplease"]
+	path = themes/nostyleplease
+	url = https://github.com/Masellum/hugo-theme-nostyleplease
