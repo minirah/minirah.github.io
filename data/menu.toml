@@ -1,8 +1,14 @@
 [[entries]]
 title = "all posts"
 
-[entries.post_list]
-limit = 5
-show_more = true
-show_more_text = "See archive..."
-show_more_url = "posts"
+    [entries.post_list]
+    section = "posts"
+    limit = 5
+    show_more = true
+    show_more_text = "See archive..."
+    show_more_url = "posts"
+
+[[entries]]
+title = "about me"
+url = "about-me"
+show_more_url = "info"
