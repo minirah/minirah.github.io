@@ -1,0 +1,4 @@
+baseURL = 'https://minirah.github.io/'
+languageCode = 'en-us'
+title = "Minirah's blog"
+theme = 'paper'
