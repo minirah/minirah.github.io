@@ -8,7 +8,9 @@ If only there is a way to know everything without effort!!!
 I wish to learn all these stuff either for the fun of it or because I consider these will somehow magically transform me into a better or intelligent person(which I know is not true). 
 But what is life if not trying out stuff you wanna do with the limited time you have been given.
 
-I'll update this list 
+I'll update this list as and when I remember stuff or come across something new.
+
+# Things
 
 - Learn another language (probably Hindi) apart from my mother tongue & English
   - At least good enough to watch movie without subtitles and have a conversation with a stranger   
